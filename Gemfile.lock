@@ -315,6 +315,7 @@ DEPENDENCIES
   shoulda-matchers!
   spring
   spring-watcher-listen (~> 2.0.0)
+  trailblazer
   trailblazer-rails
   tzinfo-data
   uglifier

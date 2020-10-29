@@ -28,6 +28,7 @@ gem 'bootsnap', '>= 1.4.2', require: false
 # Trailblazer bundle
 gem 'dry-types'
 gem 'dry-validation', '0.11.1'
+gem 'trailblazer'
 gem 'trailblazer-rails'
 
 gem 'graphql'
